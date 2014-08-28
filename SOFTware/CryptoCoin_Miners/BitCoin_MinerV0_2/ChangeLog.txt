@@ -1,0 +1,8 @@
+﻿--- V0.2 -------------------------------------------------------------------------
+- Added about box displaying information about this program as well as a changelog
+- Added a "AnalyizeData" checkbox. This adds the following features:
+	* blah
+	* blah
+	* blah
+- Removed some unused labels from GUI ("MaxHashRate" and "AvergaeHashRate")
+- OpenCL source files (.cl) are now embedded within program.

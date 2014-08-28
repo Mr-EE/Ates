@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitCoinData_Analyzer", "BitCoinData_Analyzer\BitCoinData_Analyzer.csproj", "{755B01F9-4900-40FD-A47E-4A45472492C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitCoin_MinerV0_2", "BitCoin_MinerV0_2\BitCoin_MinerV0_2.csproj", "{508CAA9A-6E62-4DDE-98B4-FC96F4CF3379}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{755B01F9-4900-40FD-A47E-4A45472492C1}.Debug|x64.ActiveCfg = Debug|x64
+		{755B01F9-4900-40FD-A47E-4A45472492C1}.Debug|x64.Build.0 = Debug|x64
+		{755B01F9-4900-40FD-A47E-4A45472492C1}.Debug|x86.ActiveCfg = Debug|x86
+		{755B01F9-4900-40FD-A47E-4A45472492C1}.Debug|x86.Build.0 = Debug|x86
+		{755B01F9-4900-40FD-A47E-4A45472492C1}.Release|x64.ActiveCfg = Release|x64
+		{755B01F9-4900-40FD-A47E-4A45472492C1}.Release|x64.Build.0 = Release|x64
+		{755B01F9-4900-40FD-A47E-4A45472492C1}.Release|x86.ActiveCfg = Release|x86
+		{755B01F9-4900-40FD-A47E-4A45472492C1}.Release|x86.Build.0 = Release|x86
+		{508CAA9A-6E62-4DDE-98B4-FC96F4CF3379}.Debug|x64.ActiveCfg = Debug|x64
+		{508CAA9A-6E62-4DDE-98B4-FC96F4CF3379}.Debug|x64.Build.0 = Debug|x64
+		{508CAA9A-6E62-4DDE-98B4-FC96F4CF3379}.Debug|x86.ActiveCfg = Debug|x86
+		{508CAA9A-6E62-4DDE-98B4-FC96F4CF3379}.Debug|x86.Build.0 = Debug|x86
+		{508CAA9A-6E62-4DDE-98B4-FC96F4CF3379}.Release|x64.ActiveCfg = Release|x64
+		{508CAA9A-6E62-4DDE-98B4-FC96F4CF3379}.Release|x64.Build.0 = Release|x64
+		{508CAA9A-6E62-4DDE-98B4-FC96F4CF3379}.Release|x86.ActiveCfg = Release|x86
+		{508CAA9A-6E62-4DDE-98B4-FC96F4CF3379}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
