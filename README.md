@@ -29,7 +29,7 @@ Data analyzed showing dots for "Zero" and "One"
 
 
 ##Builds##
-Refer to SOFTware folder. I sued Visual Studios 2010, but I also opened up the solution in SharpeDevelop and it worked. I built the Mono equivalent with the MCS compiler and it also worked, but some boxes looked a little funny.
+Refer to SOFTware folder. I used Visual Studios 2010, but I also opened up the solution in SharpeDevelop and it worked. I built the Mono equivalent with the MCS compiler and it also worked, but some boxes looked a little funny.
 
 I included some windows executable in the SOFTware folder that can be used on a Windows machine with >.NET 4.0. I included 64 and 32bit versions of the mining program and the data analyzer
 
