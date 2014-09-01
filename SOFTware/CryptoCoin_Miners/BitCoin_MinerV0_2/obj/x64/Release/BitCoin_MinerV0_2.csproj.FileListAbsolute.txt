@@ -1,0 +1,10 @@
+E:\G_Drive\Home_Projects\Projects\Ates\SOFTware\CryptoCoin_Miners\BitCoin_MinerV0_2\obj\x64\Release\BitCoin_MinerV0_2.AboutBox1.resources
+E:\G_Drive\Home_Projects\Projects\Ates\SOFTware\CryptoCoin_Miners\BitCoin_MinerV0_2\obj\x64\Release\BitCoin_MinerV0_2.Form1.resources
+E:\G_Drive\Home_Projects\Projects\Ates\SOFTware\CryptoCoin_Miners\BitCoin_MinerV0_2\obj\x64\Release\BitCoin_MinerV0_2.Properties.Resources.resources
+E:\G_Drive\Home_Projects\Projects\Ates\SOFTware\CryptoCoin_Miners\BitCoin_MinerV0_2\obj\x64\Release\BitCoin_MinerV0_2.csproj.GenerateResource.Cache
+E:\G_Drive\Home_Projects\Projects\Ates\SOFTware\CryptoCoin_Miners\BitCoin_MinerV0_2\bin\x64\Release\BitCoin_MinerV0_2.exe
+E:\G_Drive\Home_Projects\Projects\Ates\SOFTware\CryptoCoin_Miners\BitCoin_MinerV0_2\bin\x64\Release\BitCoin_MinerV0_2.pdb
+E:\G_Drive\Home_Projects\Projects\Ates\SOFTware\CryptoCoin_Miners\BitCoin_MinerV0_2\bin\x64\Release\Cloo.dll
+E:\G_Drive\Home_Projects\Projects\Ates\SOFTware\CryptoCoin_Miners\BitCoin_MinerV0_2\obj\x64\Release\BitCoin_MinerV0_2.csprojResolveAssemblyReference.cache
+E:\G_Drive\Home_Projects\Projects\Ates\SOFTware\CryptoCoin_Miners\BitCoin_MinerV0_2\obj\x64\Release\BitCoin_MinerV0_2.exe
+E:\G_Drive\Home_Projects\Projects\Ates\SOFTware\CryptoCoin_Miners\BitCoin_MinerV0_2\obj\x64\Release\BitCoin_MinerV0_2.pdb
